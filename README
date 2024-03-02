@@ -1,0 +1,11 @@
+This library provides number of standard-like containers. The goal is to achieve
+different types of code/size relations and underlying data structures to suite
+every high-perfomance need.
+
+Here are list of containers and their variations:
+  - String
+  - Set:
+    - Template, fix size, in place
+  - Map
+  - Stack
+  - Queue
